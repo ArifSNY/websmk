@@ -1,0 +1,2 @@
+# websmk
+Website Sekolah SMK
